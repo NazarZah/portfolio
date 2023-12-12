@@ -7,12 +7,8 @@ function Main() {
                 <ul className="content-list">
                     <li className="content-list__item">
                         <h2 className="title-2">Frontend skills:</h2>
-                        <p>JavaScript, ReactJS, Redux, HTML, CSS, NPM, BootStrap, Yarn</p>
+                        <p>JavaScript, ReactJS, Redux, HTML, CSS, SASS</p>
                     </li>
-                    <li className="content-list__item">
-                        <h2 className="title-2">Backend skills:</h2>
-                        <p>NodeJS, MongoDB</p>
-                        </li>
                         <li className="content-list__item">
                         <h2 className="title-2">Education degree:</h2>
                         <p>A 3rd-year student of Lviv Polytechnic University majoring in Computer Science.</p>

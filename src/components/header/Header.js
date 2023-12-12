@@ -1,4 +1,5 @@
-import "./header-style.css"
+import "./header-style.css";
+import CV from './Nazariia Zakhariia-4.pdf'
 
 function Header() {
     return (
@@ -12,7 +13,7 @@ function Header() {
             <div className="header__text">
                 <p>and I'm looking for the first job .</p>
             </div>
-            <a href="#!" className="btn">Download CV</a>
+            <a href={CV} target="blank" className="btn">Download CV</a>
         </div>
     </header>
         </div>

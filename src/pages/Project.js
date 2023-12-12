@@ -19,7 +19,7 @@ function Project() {
 
                         <h1 className="title-1">{project.title}</h1>
 
-                <img src={project.imgBig} alt={project.title} className="project-details__cover"/>
+                <img src={project.imgBig} alt={project.title} width='300px' height='200px' className="project-details__cover"/>
 
                 <div className="project-details__desc">
                             <p>Skills: { project.skills}</p>
